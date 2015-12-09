@@ -1,0 +1,10 @@
+Package: com.naken.chromekeyboardenabler
+Name: ChromeKeyboardEnabler
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable 3rd party keyboards in Chrome
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com
